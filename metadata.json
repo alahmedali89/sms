@@ -1,9 +1,0 @@
-{
-  "name": "Appwrite Phone Auth",
-  "description": "A polished mobile-friendly phone authentication app using React and Appwrite.",
-  "requestFramePermissions": [
-    "clipboard-read",
-    "clipboard-write"
-  ],
-  "majorCapabilities": []
-}
